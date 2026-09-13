@@ -1,4 +1,4 @@
-# ReserveChain.io — Institutional RWA Platform Prototype
+# ReserveChain.io  Institutional RWA Platform Prototype
 
 ReserveChain.io is a working prelaunch concept for an institutional Real-World Asset (RWA) tokenization platform focused initially on **ultra-high-purity Copper Powder** and **high-purity Nickel Wire**.
 
